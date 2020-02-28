@@ -1,2 +1,0 @@
-# officers
-Page about officers
